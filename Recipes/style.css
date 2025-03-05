@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head {
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(109, 210, 186);
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.list-item {
+    color: rgb(190, 110, 215);
+    margin: 30px;
+}
